@@ -54,7 +54,7 @@ task-manager-api/
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/ariadnalpz/task-manager-api
    cd task-manager-api
    ```
 
@@ -180,16 +180,6 @@ Elimina una tarea (requiere token).
 3. Añade el encabezado `Content-Type: application/json` para solicitudes POST y PUT.
 4. Para rutas protegidas, incluye el token JWT en `Authorization: Bearer <TOKEN_JWT>`.
 5. Guarda las solicitudes en la colección para reutilizarlas.
-
----
-
-## Pruebas automatizadas
-
-Ejecuta las pruebas unitarias incluidas:
-
-```bash
-go test ./test
-```
 
 ---
 
