@@ -33,7 +33,6 @@ task-manager-api/
 ├── routes/              # Definición de rutas de la API
 ├── middleware/          # Middleware para autenticación JWT
 ├── utils/               # Funciones auxiliares (JWT)
-├── test/                # Prueba automatizada
 ├── README.md            # Documentación del proyecto
 ├── CHANGELOG.md         # Registro de cambios
 └── serviceAccountKey.json # Credenciales de Firestore

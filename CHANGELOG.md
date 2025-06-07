@@ -67,3 +67,4 @@ Todos los cambios de este proyecto se documentarán en este archivo.
 
 * Corrección de imports no utilizados en `handlers/user.go` y `handlers/task.go`.
 * Eliminación de texto no válido ("Kernighan–Ritchie") en `handlers/task.go`.
+* Eliminación de carpeta 'test'.
