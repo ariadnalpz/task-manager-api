@@ -1,0 +1,27 @@
+# Archivos de configuración
+serviceAccountKey.json
+
+# Archivos de compilación de Go
+*.exe
+*.out
+*.o
+*.so
+
+# Carpetas de compilación
+bin/
+
+# Archivos específicos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos del editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs y cachés
+*.log
+*.cache
+
+# Otros
+node_modules/
